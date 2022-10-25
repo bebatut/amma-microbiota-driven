@@ -1,0 +1,57 @@
+name: amma
+channels:
+- conda-forge
+- bioconda
+- defaults
+dependencies:
+- bioblend
+- pandas
+- pyyaml
+- libopenblas
+#- libopenblas=0.3.7
+- jupyter_core
+- jupyter_client
+- jupyter_contrib_nbextensions
+- jupyter_dashboards
+- boost-cpp
+#- r-base=3.6.2
+- r-base
+- r-essentials
+- r-irkernel
+- bioconductor-deseq2
+- bioconductor-org.mm.eg.db
+- bioconductor-txdb.mmusculus.ucsc.mm10.knowngene
+- bioconductor-clusterProfiler
+- bioconductor-pathview
+- bioconductor-goseq
+- bioconductor-moe430a.db
+#- bioconductor-ramigo (conflict with r-sinaplot)
+- bioconductor-affy
+- bioconductor-limma
+- bioconductor-annotationdbi
+- bioconductor-impute
+- bioconductor-go.db
+- bioconductor-preprocesscore
+- bioconductor-sva
+- bioconductor-gsva
+- bioconductor-dorothea
+- r-viridisLite
+- r-viridis
+- r-Hmisc
+- r-stringi
+- r-pheatmap
+- r-gplots
+- r-upsetr
+- r-rentrez
+- r-wgcna
+- r-threejs
+- r-dendextend
+- r-xlsx
+- r-reshape
+- r-plotly
+- r-ggfortify
+- r-sinaplot
+- r-factoextra
+- r-ggrepel
+- ruby
+

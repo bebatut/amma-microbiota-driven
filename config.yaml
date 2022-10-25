@@ -1,0 +1,16 @@
+galaxy_url: "https://usegalaxy.eu/"
+api_key: ""
+library_names:
+    input_data: "Prinz"
+    genome_annotations: "Genomes + annotations"
+folder_names:
+    input_data: "derny/15-05-2017"
+    annotation: "Annotations/2017"
+hist_name: "AMMA - Transcriptomics"
+annotation_name: "mm10_UCSC_07_15_genes.gtf"
+collection_names:
+    raw_data: "Raw data"
+workflow_names:
+    extract_gene_counts: "AMMA - Sequences to counts"
+tool_ids:
+    merging: "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/0.1.0"

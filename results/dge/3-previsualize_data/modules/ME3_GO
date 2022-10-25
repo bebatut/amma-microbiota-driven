@@ -1,0 +1,2 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology
+GO:0005515	3.4609416520898e-07	1	679	5527	protein binding	MF

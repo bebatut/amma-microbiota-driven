@@ -1,0 +1,14 @@
+.DS_Store
+doc/report.pdf
+data/raw_data/
+.snakemake
+logs
+__pycache__
+src/.ipynb_checkpoints
+src/*.png
+src/*.xml
+src/*/.ipynb_checkpoints
+src/*/*.png
+src/*/*.xml
+*.RData
+_site

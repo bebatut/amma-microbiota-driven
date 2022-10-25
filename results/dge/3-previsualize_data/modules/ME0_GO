@@ -1,0 +1,41 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology
+GO:0051983	3.96989653342796e-07	0.999999892879042	32	73	regulation of chromosome segregation	BP
+GO:0031577	5.04741709475107e-07	0.99999991135975	21	39	spindle checkpoint signaling	BP
+GO:0007059	1.49357452935318e-06	0.999999500290876	78	260	chromosome segregation	BP
+GO:0044784	1.74758822395518e-06	0.999999582424242	25	54	metaphase/anaphase transition of cell cycle	BP
+GO:0071174	2.11751562765395e-06	0.999999620735968	19	36	mitotic spindle checkpoint signaling	BP
+GO:0033045	2.15726923053604e-06	0.999999455058675	26	58	regulation of sister chromatid segregation	BP
+GO:0051304	2.21040745121539e-06	0.999999331671159	32	79	chromosome separation	BP
+GO:1905818	2.31763948564946e-06	0.999999411966444	26	58	regulation of chromosome separation	BP
+GO:1902099	3.15370350326407e-06	0.999999241291621	24	52	regulation of metaphase/anaphase transition of cell cycle	BP
+GO:0007091	4.29835016396188e-06	0.999998936997951	24	53	metaphase/anaphase transition of mitotic cell cycle	BP
+GO:0000819	5.5282579859455e-06	0.999997629433952	52	157	sister chromatid segregation	BP
+GO:0010965	6.09874457451464e-06	0.999998445928192	24	54	regulation of mitotic sister chromatid separation	BP
+GO:0030071	7.72611805104989e-06	0.999998073597272	23	51	regulation of mitotic metaphase/anaphase transition	BP
+GO:0051985	1.07499413876683e-05	0.999997723700894	19	39	negative regulation of chromosome segregation	BP
+GO:0000280	1.14169146646959e-05	0.999994004604073	87	304	nuclear division	BP
+GO:0140013	1.39674656016762e-05	0.999994637748095	39	109	meiotic nuclear division	BP
+GO:0007144	1.40710275305105e-05	0.999999345225113	9	11	female meiosis I	BP
+GO:0007094	1.69625150304768e-05	0.999996662589053	17	34	mitotic spindle assembly checkpoint signaling	BP
+GO:0071173	1.69625150304768e-05	0.999996662589053	17	34	spindle assembly checkpoint signaling	BP
+GO:0051306	1.81356428318529e-05	0.999994936545196	24	57	mitotic sister chromatid separation	BP
+GO:1902100	1.8457281024421e-05	0.999996100626066	18	37	negative regulation of metaphase/anaphase transition of cell cycle	BP
+GO:0048285	2.15938605558194e-05	0.999987926494128	95	344	organelle fission	BP
+GO:1905819	2.76391601781612e-05	0.999993887612538	18	38	negative regulation of chromosome separation	BP
+GO:0000070	3.51546323858076e-05	0.999984647987682	45	138	mitotic sister chromatid segregation	BP
+GO:0098813	3.89023928518239e-05	0.999980697068806	61	206	nuclear chromosome segregation	BP
+GO:0007143	4.18210642458841e-05	0.999992337067066	15	28	female meiotic nuclear division	BP
+GO:1903046	4.44376805802286e-05	0.999981270700198	41	122	meiotic cell cycle process	BP
+GO:0045839	4.54924877733926e-05	0.999988836280898	19	42	negative regulation of mitotic nuclear division	BP
+GO:0008175	4.60383674783761e-05	0.99999077203759	16	31	tRNA methyltransferase activity	MF
+GO:0045841	4.77462191861262e-05	0.99998943630721	17	36	negative regulation of mitotic metaphase/anaphase transition	BP
+GO:0033047	6.03409292722464e-05	0.999985439789348	18	40	regulation of mitotic sister chromatid segregation	BP
+GO:0016741	6.12183773872136e-05	0.99997044282225	53	172	transferase activity, transferring one-carbon groups	MF
+GO:0033046	7.00173748072198e-05	0.999983785473882	17	37	negative regulation of sister chromatid segregation	BP
+GO:0033048	7.00173748072198e-05	0.999983785473882	17	37	negative regulation of mitotic sister chromatid segregation	BP
+GO:2000816	7.00173748072198e-05	0.999983785473882	17	37	negative regulation of mitotic sister chromatid separation	BP
+GO:0008173	7.170232455348e-05	0.999978401110935	23	56	RNA methyltransferase activity	MF
+GO:0014831	7.80782277235977e-05	1	6	6	gastro-intestinal system smooth muscle contraction	BP
+GO:1901991	8.6707182939329e-05	0.999960790519406	44	136	negative regulation of mitotic cell cycle phase transition	BP
+GO:0007088	9.32639020730826e-05	0.99996550117081	30	82	regulation of mitotic nuclear division	BP
+GO:0051383	9.95039239831342e-05	0.999986178770551	11	19	kinetochore organization	BP

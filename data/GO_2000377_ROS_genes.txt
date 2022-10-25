@@ -1,0 +1,198 @@
+Sirpa	signal-regulatory protein alpha	MGI:MGI:108563
+Adgrb1	adhesion G protein-coupled receptor B1	MGI:MGI:1933736
+Ripk1	receptor (TNFRSF)-interacting serine-threonine kinase 1	MGI:MGI:108212
+Ulbp1	UL16 binding protein 1	MGI:MGI:1925027
+Wdr35	WD repeat domain 35	MGI:MGI:1921932
+Ripk3	receptor-interacting serine-threonine kinase 3	MGI:MGI:2154952
+Ripk3	receptor-interacting serine-threonine kinase 3	MGI:MGI:2154952
+Trpv1	transient receptor potential cation channel, subfamily V, member 1	MGI:MGI:1341787
+mt-Co2	mitochondrially encoded cytochrome c oxidase II	MGI:MGI:102503
+Trp53	transformation related protein 53	MGI:MGI:98834
+Trp53	transformation related protein 53	MGI:MGI:98834
+Syk	spleen tyrosine kinase	MGI:MGI:99515
+Pdk3	pyruvate dehydrogenase kinase, isoenzyme 3	MGI:MGI:2384308
+Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1	MGI:MGI:88590
+Cryab	crystallin, alpha B	MGI:MGI:88516
+Crp	C-reactive protein, pentraxin-related	MGI:MGI:88512
+Crp	C-reactive protein, pentraxin-related	MGI:MGI:88512
+Crp	C-reactive protein, pentraxin-related	MGI:MGI:88512
+Duoxa1	dual oxidase maturation factor 1	MGI:MGI:2384861
+Duoxa1	dual oxidase maturation factor 1	MGI:MGI:2384861
+Hdac4	histone deacetylase 4	MGI:MGI:3036234
+Xdh	xanthine dehydrogenase	MGI:MGI:98973
+Plau	plasminogen activator, urokinase	MGI:MGI:97611
+Rac1	Rac family small GTPase 1	MGI:MGI:97845
+Dynll1	dynein light chain LC8-type 1	MGI:MGI:1861457
+Rab27a	RAB27A, member RAS oncogene family	MGI:MGI:1861441
+Sirt3	sirtuin 3	MGI:MGI:1927665
+Sirt3	sirtuin 3	MGI:MGI:1927665
+Tgfb1	transforming growth factor, beta 1	MGI:MGI:98725
+Romo1	reactive oxygen species modulator 1	MGI:MGI:1914317
+Tusc2	tumor suppressor 2, mitochondrial calcium regulator	MGI:MGI:1931086
+H60a	histocompatibility 60a	MGI:MGI:1306817
+Egfr	epidermal growth factor receptor	MGI:MGI:95294
+Khsrp	KH-type splicing regulatory protein	MGI:MGI:1336214
+Grb2	growth factor receptor bound protein 2	MGI:MGI:95805
+Birc2	baculoviral IAP repeat-containing 2	MGI:MGI:1197009
+Sirt5	sirtuin 5	MGI:MGI:1915596
+Gnai3	guanine nucleotide binding protein (G protein), alpha inhibiting 3	MGI:MGI:95773
+Gnai2	guanine nucleotide binding protein (G protein), alpha inhibiting 2	MGI:MGI:95772
+Tlr2	toll-like receptor 2	MGI:MGI:1346060
+Tlr2	toll-like receptor 2	MGI:MGI:1346060
+Mapt	microtubule-associated protein tau	MGI:MGI:97180
+Selenos	selenoprotein S	MGI:MGI:95994
+H2-M3	histocompatibility 2, M region locus 3	MGI:MGI:95915
+Gch1	GTP cyclohydrolase 1	MGI:MGI:95675
+Map3k7	mitogen-activated protein kinase kinase kinase 7	MGI:MGI:1346877
+Mapk14	mitogen-activated protein kinase 14	MGI:MGI:1346865
+Mapk9	mitogen-activated protein kinase 9	MGI:MGI:1346862
+Fyn	Fyn proto-oncogene	MGI:MGI:95602
+Cflar	CASP8 and FADD-like apoptosis regulator	MGI:MGI:1336166
+F2rl1	coagulation factor II (thrombin) receptor-like 1	MGI:MGI:101910
+Coa8	cytochrome c oxidase assembly factor 8	MGI:MGI:1915270
+Epor	erythropoietin receptor	MGI:MGI:95408
+Clcn3	chloride channel, voltage-sensitive 3	MGI:MGI:103555
+Mmp3	matrix metallopeptidase 3	MGI:MGI:97010
+Sirt1	sirtuin 1	MGI:MGI:2135607
+Grin1	glutamate receptor, ionotropic, NMDA1 (zeta 1)	MGI:MGI:95819
+Smpd3	sphingomyelin phosphodiesterase 3, neutral	MGI:MGI:1927578
+Ccn6	cellular communication network factor 6	MGI:MGI:2685581
+Pid1	phosphotyrosine interaction domain containing 1	MGI:MGI:2138391
+Pax2	paired box 2	MGI:MGI:97486
+Oprm1	opioid receptor, mu 1	MGI:MGI:97441
+Oprm1	opioid receptor, mu 1	MGI:MGI:97441
+Aldh2	aldehyde dehydrogenase 2, mitochondrial	MGI:MGI:99600
+Thbs1	thrombospondin 1	MGI:MGI:98737
+Coq7	demethyl-Q 7	MGI:MGI:107207
+Aatf	apoptosis antagonizing transcription factor	MGI:MGI:1929608
+Aatf	apoptosis antagonizing transcription factor	MGI:MGI:1929608
+Arf4	ADP-ribosylation factor 4	MGI:MGI:99433
+Atp7a	ATPase, Cu++ transporting, alpha polypeptide	MGI:MGI:99400
+Prkn	parkin RBR E3 ubiquitin protein ligase	MGI:MGI:1355296
+Prkn	parkin RBR E3 ubiquitin protein ligase	MGI:MGI:1355296
+Prkn	parkin RBR E3 ubiquitin protein ligase	MGI:MGI:1355296
+Alox5	arachidonate 5-lipoxygenase	MGI:MGI:87999
+Cav1	caveolin 1, caveolae protein	MGI:MGI:102709
+Hspd1	heat shock protein 1 (chaperonin)	MGI:MGI:96242
+Foxm1	forkhead box M1	MGI:MGI:1347487
+Hp	haptoglobin	MGI:MGI:96211
+Mpv17l	Mpv17 transgene, kidney disease mutant-like	MGI:MGI:2135951
+Rnf41	ring finger protein 41	MGI:MGI:1914838
+Rnf41	ring finger protein 41	MGI:MGI:1914838
+Igf1	insulin-like growth factor 1	MGI:MGI:96432
+Noxa1	NADPH oxidase activator 1	MGI:MGI:2449980
+Ifng	interferon gamma	MGI:MGI:107656
+Ifng	interferon gamma	MGI:MGI:107656
+Atp5g1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C1 (subunit 9)	MGI:MGI:107653
+Hrh1	histamine receptor H1	MGI:MGI:107619
+Akr1c18	aldo-keto reductase family 1, member C18	MGI:MGI:2145420
+Slc30a10	solute carrier family 30, member 10	MGI:MGI:2685058
+Duoxa2	dual oxidase maturation factor 2	MGI:MGI:1914061
+Tigar	Trp53 induced glycolysis regulatory phosphatase	MGI:MGI:2442752
+Gadd45a	growth arrest and DNA-damage-inducible 45 alpha	MGI:MGI:107799
+Klf4	Kruppel-like factor 4 (gut)	MGI:MGI:1342287
+Insr	insulin receptor	MGI:MGI:96575
+Insr	insulin receptor	MGI:MGI:96575
+Ins2	insulin II	MGI:MGI:96573
+Il6	interleukin 6	MGI:MGI:96559
+Il4	interleukin 4	MGI:MGI:96556
+Il4	interleukin 4	MGI:MGI:96556
+Esr1	estrogen receptor 1 (alpha)	MGI:MGI:1352467
+Il1b	interleukin 1 beta	MGI:MGI:96543
+Il10	interleukin 10	MGI:MGI:96537
+Jak2	Janus kinase 2	MGI:MGI:96629
+Jak2	Janus kinase 2	MGI:MGI:96629
+Klrk1	killer cell lectin-like receptor subfamily K, member 1	MGI:MGI:1196250
+Mtor	mechanistic target of rapamycin kinase	MGI:MGI:1928394
+Ass1	argininosuccinate synthetase 1	MGI:MGI:88090
+App	amyloid beta (A4) precursor protein	MGI:MGI:88059
+App	amyloid beta (A4) precursor protein	MGI:MGI:88059
+Tnf	tumor necrosis factor	MGI:MGI:104798
+Tnf	tumor necrosis factor	MGI:MGI:104798
+Tnf	tumor necrosis factor	MGI:MGI:104798
+Pdgfb	platelet derived growth factor, B polypeptide	MGI:MGI:97528
+Tspo	translocator protein	MGI:MGI:88222
+Tspo	translocator protein	MGI:MGI:88222
+Ptk2b	PTK2 protein tyrosine kinase 2 beta	MGI:MGI:104908
+Ptk2b	PTK2 protein tyrosine kinase 2 beta	MGI:MGI:104908
+Raet1b	retinoic acid early transcript beta	MGI:MGI:109432
+Cdkn1a	cyclin-dependent kinase inhibitor 1A (P21)	MGI:MGI:104556
+Nqo2	N-ribosyldihydronicotinamide quinone reductase 2	MGI:MGI:104513
+Hvcn1	hydrogen voltage-gated channel 1	MGI:MGI:1921346
+Ptger4	prostaglandin E receptor 4 (subtype EP4)	MGI:MGI:104311
+Ddah1	dimethylarginine dimethylaminohydrolase 1	MGI:MGI:1916469
+Itgb2	integrin beta 2	MGI:MGI:96611
+Itgb2	integrin beta 2	MGI:MGI:96611
+Itgam	integrin alpha M	MGI:MGI:96607
+Ager	advanced glycosylation end product-specific receptor	MGI:MGI:893592
+Agxt2	alanine-glyoxylate aminotransferase 2	MGI:MGI:2146052
+Clu	clusterin	MGI:MGI:88423
+Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	MGI:MGI:1339639
+Eif5a	eukaryotic translation initiation factor 5A	MGI:MGI:106248
+Prdx2	peroxiredoxin 2	MGI:MGI:109486
+Bcr	BCR activator of RhoGEF and GTPase	MGI:MGI:88141
+Akt2	thymoma viral proto-oncogene 2	MGI:MGI:104874
+Atp2b4	ATPase, Ca++ transporting, plasma membrane 4	MGI:MGI:88111
+Ier3	immediate early response 3	MGI:MGI:104814
+Nox4	NADPH oxidase 4	MGI:MGI:1354184
+Klf2	Kruppel-like factor 2 (lung)	MGI:MGI:1342772
+Esr2	estrogen receptor 2 (beta)	MGI:MGI:109392
+Tfap2a	transcription factor AP-2, alpha	MGI:MGI:104671
+Lep	leptin	MGI:MGI:104663
+F2	coagulation factor II	MGI:MGI:88380
+Cd34	CD34 antigen	MGI:MGI:88329
+Atg5	autophagy related 5	MGI:MGI:1277186
+Parl	presenilin associated, rhomboid-like	MGI:MGI:1277152
+Snca	synuclein, alpha	MGI:MGI:1277151
+Tlr4	toll-like receptor 4	MGI:MGI:96824
+Ndufc2	NADH:ubiquinone oxidoreductase subunit C2	MGI:MGI:1344370
+Aif1	allograft inflammatory factor 1	MGI:MGI:1343098
+Ngfr	nerve growth factor receptor (TNFR superfamily, member 16)	MGI:MGI:97323
+Pkd2	polycystin 2, transient receptor potential cation channel	MGI:MGI:1099818
+Sod1	superoxide dismutase 1, soluble	MGI:MGI:98351
+Slc25a33	solute carrier family 25, member 33	MGI:MGI:1917806
+Zfp13	zinc finger protein 13	MGI:MGI:99159
+Prkcd	protein kinase C, delta	MGI:MGI:97598
+Shc1	src homology 2 domain-containing transforming protein C1	MGI:MGI:98296
+Stat3	signal transducer and activator of transcription 3	MGI:MGI:103038
+Mmp8	matrix metallopeptidase 8	MGI:MGI:1202395
+Ptgs2	prostaglandin-endoperoxide synthase 2	MGI:MGI:97798
+Rgn	regucalcin	MGI:MGI:108024
+Rgn	regucalcin	MGI:MGI:108024
+G6pdx	glucose-6-phosphate dehydrogenase X-linked	MGI:MGI:105979
+Nox1	NADPH oxidase 1	MGI:MGI:2450016
+Cyba	cytochrome b-245, alpha polypeptide	MGI:MGI:1316658
+Cyba	cytochrome b-245, alpha polypeptide	MGI:MGI:1316658
+Zc3h12a	zinc finger CCCH type containing 12A	MGI:MGI:2385891
+Zc3h12a	zinc finger CCCH type containing 12A	MGI:MGI:2385891
+Foxo3	forkhead box O3	MGI:MGI:1890081
+Foxo3	forkhead box O3	MGI:MGI:1890081
+Foxo1	forkhead box O1	MGI:MGI:1890077
+Akt1	thymoma viral proto-oncogene 1	MGI:MGI:87986
+Agtr1a	angiotensin II receptor, type 1a	MGI:MGI:87964
+Agt	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	MGI:MGI:87963
+Agt	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	MGI:MGI:87963
+Smad3	SMAD family member 3	MGI:MGI:1201674
+Smad3	SMAD family member 3	MGI:MGI:1201674
+Ctns	cystinosis, nephropathic	MGI:MGI:1932872
+Ctns	cystinosis, nephropathic	MGI:MGI:1932872
+Acp5	acid phosphatase 5, tartrate resistant	MGI:MGI:87883
+Acp5	acid phosphatase 5, tartrate resistant	MGI:MGI:87883
+Il18	interleukin 18	MGI:MGI:107936
+Rock2	Rho-associated coiled-coil containing protein kinase 2	MGI:MGI:107926
+Ticam1	toll-like receptor adaptor molecule 1	MGI:MGI:2147032
+Park7	Parkinson disease (autosomal recessive, early onset) 7	MGI:MGI:2135637
+Park7	Parkinson disease (autosomal recessive, early onset) 7	MGI:MGI:2135637
+Ptgis	prostaglandin I2 (prostacyclin) synthase	MGI:MGI:1097156
+Dnm2	dynamin 2	MGI:MGI:109547
+Icam1	intercellular adhesion molecule 1	MGI:MGI:96392
+Pink1	PTEN induced putative kinase 1	MGI:MGI:1916193
+Pink1	PTEN induced putative kinase 1	MGI:MGI:1916193
+Cd177	CD177 antigen	MGI:MGI:1916141
+Brca1	breast cancer 1, early onset	MGI:MGI:104537
+Prcp	prolylcarboxypeptidase (angiotensinase C)	MGI:MGI:1919711
+Ptx3	pentraxin related gene	MGI:MGI:104641
+Tgfbr2	transforming growth factor, beta receptor II	MGI:MGI:98729
+Tlr5	toll-like receptor 5	MGI:MGI:1858171
+Sod2	superoxide dismutase 2, mitochondrial	MGI:MGI:98352
+Eef1a1	eukaryotic translation elongation factor 1 alpha 1	MGI:MGI:1096881

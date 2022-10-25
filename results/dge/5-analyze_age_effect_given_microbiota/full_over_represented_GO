@@ -1,0 +1,197 @@
+category	Old vs Young (SPF)	Old vs Young (GF)	term	ontology
+1	GO:0006952	3.54285283224815e-12	0.00796188778401343	defense response	BP
+2	GO:0022626	3.54285283224815e-12	NA	cytosolic ribosome	CC
+3	GO:0006955	7.66517150328803e-11	0.0102706814693831	immune response	BP
+4	GO:0051707	8.91267408196479e-11	0.00233892303698128	response to other organism	BP
+5	GO:0043207	8.91267408196479e-11	0.00233892303698128	response to external biotic stimulus	BP
+6	GO:0098542	9.8943408461254e-11	NA	defense response to other organism	BP
+7	GO:0002376	1.46469549213184e-10	0.00141393229689858	immune system process	BP
+8	GO:0009607	3.89318968152387e-10	0.0102706814693831	response to biotic stimulus	BP
+9	GO:0051607	2.77553221324017e-09	NA	defense response to virus	BP
+10	GO:0045087	3.17491937154608e-09	0.0148090085582898	innate immune response	BP
+11	GO:0009615	4.02806312107251e-09	0.0272151710010356	response to virus	BP
+12	GO:0002252	4.10071264209989e-09	NA	immune effector process	BP
+13	GO:0022627	7.7526868589536e-09	NA	cytosolic small ribosomal subunit	CC
+14	GO:0006950	4.31736546191877e-08	NA	response to stress	BP
+15	GO:0043229	6.99342913252594e-08	NA	intracellular organelle	CC
+16	GO:0003735	3.63776737614597e-07	NA	structural constituent of ribosome	MF
+17	GO:0043227	3.63776737614597e-07	0.00150717308681621	membrane-bounded organelle	CC
+18	GO:0005622	4.46391972969581e-07	NA	intracellular	CC
+19	GO:0044419	4.66487116754556e-07	NA	interspecies interaction between organisms	BP
+20	GO:0002682	8.01933096861428e-07	0.0255904662192838	regulation of immune system process	BP
+21	GO:0044424	8.2582698193931e-07	NA	intracellular part	CC
+22	GO:0005737	1.63724591354097e-06	NA	cytoplasm	CC
+23	GO:0044444	2.32537408392612e-06	NA	cytoplasmic part	CC
+24	GO:0043903	2.32537408392612e-06	NA	regulation of symbiosis, encompassing mutualism through parasitism	BP
+25	GO:0043226	2.35637578912416e-06	NA	organelle	CC
+26	GO:0043901	2.35637578912416e-06	NA	negative regulation of multi-organism process	BP
+27	GO:0044391	6.8605776032566e-06	NA	ribosomal subunit	CC
+28	GO:0048525	7.15980675864605e-06	NA	negative regulation of viral process	BP
+29	GO:0005840	7.15980675864605e-06	NA	ribosome	CC
+30	GO:0050792	8.01942163320434e-06	NA	regulation of viral process	BP
+31	GO:0044403	8.01942163320434e-06	NA	symbiont process	BP
+32	GO:0043231	8.01942163320434e-06	0.00314584097966741	intracellular membrane-bounded organelle	CC
+33	GO:0044446	1.32277526425488e-05	NA	intracellular organelle part	CC
+34	GO:0035456	1.34500505877177e-05	NA	response to interferon-beta	BP
+35	GO:0012505	1.55581180851189e-05	NA	endomembrane system	CC
+36	GO:0009617	1.97883756564187e-05	NA	response to bacterium	BP
+37	GO:0051704	2.27586545848051e-05	NA	multi-organism process	BP
+38	GO:0044464	2.53823867145925e-05	NA	cell part	CC
+39	GO:0005623	2.59038028129331e-05	NA	cell	CC
+40	GO:0007159	2.65785253300517e-05	NA	leukocyte cell-cell adhesion	BP
+41	GO:0043900	3.05856361945106e-05	NA	regulation of multi-organism process	BP
+42	GO:0002684	3.48436362151337e-05	0.0324883183033816	positive regulation of immune system process	BP
+43	GO:0044445	4.92612944626951e-05	NA	cytosolic part	CC
+44	GO:1903900	6.35407413322474e-05	NA	regulation of viral life cycle	BP
+45	GO:0015935	8.16787293011509e-05	NA	small ribosomal subunit	CC
+46	GO:0016032	0.000132850696725173	NA	viral process	BP
+47	GO:0022625	0.000141430652580643	NA	cytosolic large ribosomal subunit	CC
+48	GO:1903037	0.000141430652580643	NA	regulation of leukocyte cell-cell adhesion	BP
+49	GO:0035458	0.000146886770223836	NA	cellular response to interferon-beta	BP
+50	GO:0000028	0.000148764487509188	NA	ribosomal small subunit assembly	BP
+51	GO:0009605	0.000154344181658472	NA	response to external stimulus	BP
+52	GO:0019058	0.00015605822464618	NA	viral life cycle	BP
+53	GO:0044422	0.000260597024001204	NA	organelle part	CC
+54	GO:1903901	0.000302120462985683	NA	negative regulation of viral life cycle	BP
+55	GO:0045069	0.000302120462985683	NA	regulation of viral genome replication	BP
+56	GO:0042611	0.000307289711532197	0.00109692638620038	MHC protein complex	CC
+57	GO:0002821	0.000349788676226542	NA	positive regulation of adaptive immune response	BP
+58	GO:0045071	0.000390413781304123	NA	negative regulation of viral genome replication	BP
+59	GO:0002548	0.000397450004608391	0.0280795906569645	monocyte chemotaxis	BP
+60	GO:0022407	0.000397450004608391	NA	regulation of cell-cell adhesion	BP
+61	GO:0034097	0.000404495319459106	0.00796188778401343	response to cytokine	BP
+62	GO:0044428	0.0004333279755582	0.00141393229689858	nuclear part	CC
+63	GO:0006954	0.000581262168120006	NA	inflammatory response	BP
+64	GO:1990266	0.000734474502008281	NA	neutrophil migration	BP
+65	GO:0005783	0.000832790609413872	NA	endoplasmic reticulum	CC
+66	GO:0050776	0.000832790609413872	NA	regulation of immune response	BP
+67	GO:0030595	0.000850551249891038	NA	leukocyte chemotaxis	BP
+68	GO:0050863	0.00105444640544856	NA	regulation of T cell activation	BP
+69	GO:1903708	0.00105444640544856	NA	positive regulation of hemopoiesis	BP
+70	GO:0042110	0.0012335792163302	NA	T cell activation	BP
+71	GO:0042613	0.00128332243648876	0.00266941084790788	MHC class II protein complex	CC
+72	GO:0060326	0.00137058145356247	NA	cell chemotaxis	BP
+73	GO:0000323	0.00140322176726793	NA	lytic vacuole	CC
+74	GO:0030593	0.00140336526650694	NA	neutrophil chemotaxis	BP
+75	GO:0019079	0.00143884451981596	NA	viral genome replication	BP
+76	GO:1901564	0.00168573783605495	NA	organonitrogen compound metabolic process	BP
+77	GO:1903039	0.00181021527671285	NA	positive regulation of leukocyte cell-cell adhesion	BP
+78	GO:0002697	0.00211373674268382	NA	regulation of immune effector process	BP
+79	GO:0003676	0.00233515647409897	0.00109692638620038	nucleic acid binding	MF
+80	GO:0043603	0.00251418892579805	NA	cellular amide metabolic process	BP
+81	GO:0034341	0.00251772540789125	NA	response to interferon-gamma	BP
+82	GO:0071704	0.00251772540789125	NA	organic substance metabolic process	BP
+83	GO:0005764	0.00251772540789125	NA	lysosome	CC
+84	GO:0002824	0.00307793713755553	NA	positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	BP
+85	GO:0006518	0.00311296387467712	NA	peptide metabolic process	BP
+86	GO:0022409	0.00321878147479176	NA	positive regulation of cell-cell adhesion	BP
+87	GO:0008152	0.0032349030283655	NA	metabolic process	BP
+88	GO:0071345	0.00327980985290285	NA	cellular response to cytokine stimulus	BP
+89	GO:1901566	0.00327980985290285	NA	organonitrogen compound biosynthetic process	BP
+90	GO:1903706	0.00364108241248279	NA	regulation of hemopoiesis	BP
+91	GO:0046631	0.00364108241248279	NA	alpha-beta T cell activation	BP
+92	GO:0098552	0.00370062421934819	NA	side of membrane	CC
+93	GO:0050870	0.00390698054420259	NA	positive regulation of T cell activation	BP
+94	GO:0009986	0.00416169861594479	NA	cell surface	CC
+95	GO:0002250	0.00455651829223683	NA	adaptive immune response	BP
+96	GO:0019843	0.00472800656232572	NA	rRNA binding	MF
+97	GO:0050900	0.00507817274381737	NA	leukocyte migration	BP
+98	GO:0045321	0.00565967698219663	NA	leukocyte activation	BP
+99	GO:0009897	0.00565967698219663	NA	external side of plasma membrane	CC
+100	GO:0061844	0.00602589076542976	NA	antimicrobial humoral immune response mediated by antimicrobial peptide	BP
+101	GO:1902105	0.00617952469638828	NA	regulation of leukocyte differentiation	BP
+102	GO:0048247	0.00648037016013164	NA	lymphocyte chemotaxis	BP
+103	GO:0050778	0.00648037016013164	NA	positive regulation of immune response	BP
+104	GO:0042379	0.00648037016013164	NA	chemokine receptor binding	MF
+105	GO:0097530	0.00728638695213438	NA	granulocyte migration	BP
+106	GO:0005773	0.00862315877474225	NA	vacuole	CC
+107	GO:0019538	0.00862315877474225	NA	protein metabolic process	BP
+108	GO:0006807	0.00876020126884941	NA	nitrogen compound metabolic process	BP
+109	GO:0043170	0.00976671656381638	NA	macromolecule metabolic process	BP
+110	GO:0002521	0.0102528600657855	NA	leukocyte differentiation	BP
+111	GO:0035747	0.0104816660914664	NA	natural killer cell chemotaxis	BP
+112	GO:2000501	0.0104816660914664	NA	regulation of natural killer cell chemotaxis	BP
+113	GO:0002460	0.010522425991447	NA	adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	BP
+114	GO:0002694	0.0107586732259601	NA	regulation of leukocyte activation	BP
+115	GO:0006325	0.0107586732259601	NA	chromatin organization	BP
+116	GO:0071621	0.0110326694616272	NA	granulocyte chemotaxis	BP
+117	GO:0009058	0.0110326694616272	NA	biosynthetic process	BP
+118	GO:0002237	0.0111053191720129	NA	response to molecule of bacterial origin	BP
+119	GO:0030155	0.0111379933592078	NA	regulation of cell adhesion	BP
+120	GO:0045785	0.0111379933592078	NA	positive regulation of cell adhesion	BP
+121	GO:0046649	0.0111379933592078	NA	lymphocyte activation	BP
+122	GO:0097529	0.0112154732656211	NA	myeloid leukocyte migration	BP
+123	GO:1901576	0.0112154732656211	NA	organic substance biosynthetic process	BP
+124	GO:0031981	0.0116539944053757	0.0022825197242443	nuclear lumen	CC
+125	GO:1901363	0.0116539944053757	NA	heterocyclic compound binding	MF
+126	GO:0002819	0.0116969410094197	NA	regulation of adaptive immune response	BP
+127	GO:0050691	0.0119543014823577	NA	regulation of defense response to virus by host	BP
+128	GO:0044267	0.0121216525944868	NA	cellular protein metabolic process	BP
+129	GO:0050865	0.0148359361315373	NA	regulation of cell activation	BP
+130	GO:0051249	0.0149872888819923	NA	regulation of lymphocyte activation	BP
+131	GO:0045619	0.0157054801089664	NA	regulation of lymphocyte differentiation	BP
+132	GO:0030217	0.0163240306124248	NA	T cell differentiation	BP
+133	GO:0006412	0.0164105985273656	NA	translation	BP
+134	GO:0002520	0.0164762358764736	NA	immune system development	BP
+135	GO:0042742	0.0166648452273226	NA	defense response to bacterium	BP
+136	GO:0071674	0.0169101793082362	NA	mononuclear cell migration	BP
+137	GO:0097159	0.0174725774481968	NA	organic cyclic compound binding	MF
+138	GO:2000108	0.0175812431786222	NA	positive regulation of leukocyte apoptotic process	BP
+139	GO:1902107	0.0194643489803014	NA	positive regulation of leukocyte differentiation	BP
+140	GO:0031347	0.0205936236826058	NA	regulation of defense response	BP
+141	GO:0019884	0.0207908955759066	NA	antigen processing and presentation of exogenous antigen	BP
+142	GO:0046634	0.0207908955759066	NA	regulation of alpha-beta T cell activation	BP
+143	GO:0019886	0.0207908955759066	NA	antigen processing and presentation of exogenous peptide antigen via MHC class II	BP
+144	GO:0044238	0.0216080760017706	NA	primary metabolic process	BP
+145	GO:0002478	0.0216319479064695	NA	antigen processing and presentation of exogenous peptide antigen	BP
+146	GO:0002495	0.021878035165112	NA	antigen processing and presentation of peptide antigen via MHC class II	BP
+147	GO:0035455	0.022535427277479	NA	response to interferon-alpha	BP
+148	GO:0005178	0.0229459540787345	NA	integrin binding	MF
+149	GO:0032757	0.0240388545993125	NA	positive regulation of interleukin-8 production	BP
+150	GO:0030260	0.0240388545993125	NA	entry into host cell	BP
+151	GO:0044409	0.0240388545993125	NA	entry into host	BP
+152	GO:0051806	0.0240388545993125	NA	entry into cell of other organism involved in symbiotic interaction	BP
+153	GO:0051828	0.0240388545993125	NA	entry into other organism involved in symbiotic interaction	BP
+154	GO:0002523	0.0241083263170205	NA	leukocyte migration involved in inflammatory response	BP
+155	GO:0045580	0.0242375351703016	NA	regulation of T cell differentiation	BP
+156	GO:1990868	0.0242375351703016	NA	response to chemokine	BP
+157	GO:1990869	0.0242375351703016	NA	cellular response to chemokine	BP
+158	GO:0043043	0.0242423535779397	NA	peptide biosynthetic process	BP
+159	GO:0010467	0.0247055101488831	NA	gene expression	BP
+160	GO:0050688	0.0250571859146827	NA	regulation of defense response to virus	BP
+161	GO:0048020	0.0252322471778191	NA	CCR chemokine receptor binding	MF
+162	GO:0033031	0.0252385651574494	NA	positive regulation of neutrophil apoptotic process	BP
+163	GO:0008009	0.0252766974376489	NA	chemokine activity	MF
+164	GO:0001775	0.0252766974376489	NA	cell activation	BP
+165	GO:0050868	0.0259836600642644	NA	negative regulation of T cell activation	BP
+166	GO:0030098	0.0263321638495636	NA	lymphocyte differentiation	BP
+167	GO:0042129	0.0265039051440604	NA	regulation of T cell proliferation	BP
+168	GO:0042581	0.0292699079913647	NA	specific granule	CC
+169	GO:0002504	0.0307458290441318	NA	antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	BP
+170	GO:0019915	0.0307458290441318	NA	lipid storage	BP
+171	GO:0034641	0.0307458290441318	NA	cellular nitrogen compound metabolic process	BP
+172	GO:0098852	0.0308385209729683	NA	lytic vacuole membrane	CC
+173	GO:0048534	0.032212341767952	NA	hematopoietic or lymphoid organ development	BP
+174	GO:0001817	0.032212341767952	NA	regulation of cytokine production	BP
+175	GO:1903556	0.032212341767952	NA	negative regulation of tumor necrosis factor superfamily cytokine production	BP
+176	GO:0070887	0.0343339420106008	NA	cellular response to chemical stimulus	BP
+177	GO:0003723	0.0348635809238484	NA	RNA binding	MF
+178	GO:0002696	0.0356949801583005	NA	positive regulation of leukocyte activation	BP
+179	GO:0045582	0.0374998954406134	NA	positive regulation of T cell differentiation	BP
+180	GO:0048145	0.0379445624941751	NA	regulation of fibroblast proliferation	BP
+181	GO:1903038	0.0379445624941751	NA	negative regulation of leukocyte cell-cell adhesion	BP
+182	GO:0006261	0.0379640464762025	NA	DNA-dependent DNA replication	BP
+183	GO:0051251	0.0384637009189305	NA	positive regulation of lymphocyte activation	BP
+184	GO:0032496	0.039764286412551	NA	response to lipopolysaccharide	BP
+185	GO:0044249	0.042842769049898	NA	cellular biosynthetic process	BP
+186	GO:0001730	0.0441174902985016	NA	2'-5'-oligoadenylate synthetase activity	MF
+187	GO:0072677	0.0441174902985016	NA	eosinophil migration	BP
+188	GO:0022408	0.0449620360174015	NA	negative regulation of cell-cell adhesion	BP
+189	GO:0050867	0.0457300759091696	NA	positive regulation of cell activation	BP
+190	GO:0048144	0.0462879419625851	NA	fibroblast proliferation	BP
+191	GO:0042255	0.0462879419625851	NA	ribosome assembly	BP
+192	GO:0001819	NA	0.0183907396047743	positive regulation of cytokine production	BP
+193	GO:0051276	NA	0.0357924137893217	chromosome organization	BP
+194	GO:0005654	NA	0.00802109730116933	nucleoplasm	CC
+195	GO:0005634	NA	0.00109692638620038	nucleus	CC
+196	GO:0016071	NA	0.00796188778401343	mRNA metabolic process	BP

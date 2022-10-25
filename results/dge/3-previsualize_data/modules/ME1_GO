@@ -1,0 +1,16 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology
+GO:0031984	2.24596517419202e-09	1	184	662	organelle subcompartment	CC
+GO:0012505	2.96239308867495e-09	1	598	2619	endomembrane system	CC
+GO:0005783	3.01224898841353e-09	1	292	1161	endoplasmic reticulum	CC
+GO:0004842	4.03418887541019e-08	1	102	319	ubiquitin-protein transferase activity	MF
+GO:0019787	4.45827548990284e-08	1	106	336	ubiquitin-like protein transferase activity	MF
+GO:0098827	5.18348406371406e-08	1	129	450	endoplasmic reticulum subcompartment	CC
+GO:0005789	6.44779683429896e-08	1	126	439	endoplasmic reticulum membrane	CC
+GO:0042175	6.56842344727143e-08	1	130	456	nuclear outer membrane-endoplasmic reticulum membrane network	CC
+GO:0016021	1.38417454038255e-06	0.999999113959573	517	2287	integral component of membrane	CC
+GO:0031224	2.59422144366709e-06	0.999998230346413	524	2332	intrinsic component of membrane	CC
+GO:0061659	1.08147870842106e-05	0.999994589899642	76	244	ubiquitin-like protein ligase activity	MF
+GO:0061630	1.2019008369251e-05	0.999994046750831	73	233	ubiquitin protein ligase activity	MF
+GO:0043632	2.13235507372579e-05	0.99998672991151	142	542	modification-dependent macromolecule catabolic process	BP
+GO:0070647	2.47334313169642e-05	0.999983876517229	169	661	protein modification by small protein conjugation or removal	BP
+GO:0006511	3.00663723903304e-05	0.999981282077028	137	522	ubiquitin-dependent protein catabolic process	BP

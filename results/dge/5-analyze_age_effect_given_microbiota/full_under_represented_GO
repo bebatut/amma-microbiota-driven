@@ -1,0 +1,7 @@
+category	Old vs Young (SPF)	Old vs Young (GF)	term	ontology
+1	GO:0003008	0.000283575105655275	0.013726354441896	system process	BP
+2	GO:0050877	1.29916512028004e-05	NA	nervous system process	BP
+3	GO:0007606	2.03938178448296e-06	0.000529202292645045	sensory perception of chemical stimulus	BP
+4	GO:0004984	1.37773923202797e-06	0.000529202292645045	olfactory receptor activity	MF
+5	GO:0007608	2.78297236785439e-07	0.000549615594844297	sensory perception of smell	BP
+6	GO:0007600	NA	0.0018752829975574	sensory perception	BP

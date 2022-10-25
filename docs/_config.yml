@@ -1,0 +1,12 @@
+# Global metadata
+title: Atlas of Microglia-Microbiota in Aging
+description: Differential gene expression analysis in mice for different microbiota, different ages and 2 sexes
+# Social
+email: berenice.batut@gmail.com
+repository: bebatut/amma
+url: "http://bebatut.fr/"
+baseurl: "/amma"
+
+plugins:
+  - jekyll-last-modified-at
+  - jekyll-redirect-from
